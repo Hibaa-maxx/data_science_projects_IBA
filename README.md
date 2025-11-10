@@ -1,4 +1,4 @@
-Welcome to my repository,  a collection of projects I’ve developed as part of my ongoing Master’s in Data Science at IBA Karachi.
+Welcome to my repository,  a collection of projects I’ve developed as part of my ongoing Master’s in Data Science at Institute of Business Adminstration(IBA), Karachi.
 Each project explores a different area of data-driven problem solving, from  ML to modern deep learning and computational intelligence.
 
 💡 Featured Projects
