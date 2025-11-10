@@ -4,24 +4,23 @@ Each project explores a different area of data-driven problem solving, from  ML 
 💡 Featured Projects
 🗣️ Natural Language Processing (NLP)
 - OCR Tool — converts handwritten notes into digital text.
-- Sentiment Analysis — identifies opinions and emotions from feedback datasets.
-- RAG-based Question Answering System — combines retrieval and generation for contextual Q&A.
+- Sentiment Analysis — identifies opinions and emotions from feedback. 
+- RAG-based Question Answering System — combines retrieval and generation for contextual Q&A, specialized for DRAP (Drug Regulatory Authority of Pakistan)
 
 🧠 Fuzzy Logic & Decision Systems
 - Fuzzy Logic Model for Diabetes Management — personalized insulin dosing using fuzzy inference.
 
 🖼️ Computer Vision
-- Image Classification & Object Detection — CNN and transformer-based models for medical and general vision tasks.
+- Image Classification & Object Detection 
 
 📊 Machine Learning & Predictive Modeling
 
-🤖 Supervised Learning Models — predicting outcomes using structured clinical and behavioral data.
+🤖 Supervised Learning Models 
 
-🔢 Cluster Analysis — uncovering hidden structures in data using unsupervised learning.
+🔢 Cluster Analysis  
 
 📈 Probabilistic Reasoning
-
-🔍 Bayesian Networks & Causal Inference — modeling uncertainty and reasoning under incomplete information.
+- Bayesian Networks & Causal Inference — modeling uncertainty and reasoning under incomplete information.
 
 🎓 Current Focus
 
